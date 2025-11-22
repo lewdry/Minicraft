@@ -1,0 +1,9 @@
+{
+  "name": "minicraft-js",
+  "version": "0.1.0",
+  "description": "JavaScript rewrite of Minicraft game",
+  "scripts": {
+    "start": "npx serve web -p 8080"
+  },
+  "devDependencies": {}
+}
